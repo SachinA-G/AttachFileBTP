@@ -1,0 +1,15 @@
+{
+    "odata": {
+        "flavor": "x4"
+      },
+      "requires": {
+        
+        "iflow1": {
+          "kind": "rest",
+          "credentials": {
+            
+            "url": "https://51357e07trial-dev-hana-12-srv.cfapps.us10-001.hana.ondemand.com"
+          }
+        }
+    } 
+}
